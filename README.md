@@ -5,6 +5,7 @@ Find it time-consuming to create standardized questionnaires in Human-Computer I
 \*Make sure you've read the questionnaire explanation [below](#Questionnaires) before copying the form. Using a wrong template could lead to a waste of effort and false conclusions!
 
 [![AttrakDiff](https://img.shields.io/badge/-AttrakDiff-ff69b4.svg)](https://docs.google.com/forms/d/19nldyAuaBNrVpacfRqPwVo9DVcHeuh5kGGRFIPitjCI/copy)
+[![FSS](https://img.shields.io/badge/-flow-black?style=flat-square)]()
 [![GEQ](https://img.shields.io/badge/-GEQ-yellowgreen.svg)](https://docs.google.com/forms/d/1RXqIfDZgJ3Mi27MX5UAv3hsx4n8G90Zo_dfMGR398JQ/copy)
 [![IPQ](https://img.shields.io/badge/-IPQ-lightgrey.svg)](https://docs.google.com/forms/d/11_CP6_mearE3rWclxCiYL9tmheoGEBg7DN1jHmAJAiY/copy)
 [![PQ](https://img.shields.io/badge/-PQ-brightgreen.svg)](https://docs.google.com/forms/d/1ZVvTZB_mcN5SGedKm8CDSGStYgSrplH1XJVwRhU3YaI/copy)
@@ -24,6 +25,8 @@ Find it time-consuming to create standardized questionnaires in Human-Computer I
 * [![Copy](https://img.shields.io/badge/-Copy-brightgreen.svg)](https://docs.google.com/forms/d/19nldyAuaBNrVpacfRqPwVo9DVcHeuh5kGGRFIPitjCI/copy) **AttrakDiff**: measuring the attractiveness [Hassenzahl et al. 2003]. [Attrakdiff3](http://www.attrakdiff.de/) is used here.
 
 * [![Copy](https://img.shields.io/badge/-Copy-brightgreen.svg)](https://docs.google.com/forms/d/1RXqIfDZgJ3Mi27MX5UAv3hsx4n8G90Zo_dfMGR398JQ/copy) **GEQ** - Game Experience Questionnaire: [Poels et al. 2007]. Note there are different versions of GEQ exist and the factor structure of the GEQ might not be stable [Law et al. 2018]--please be cautious when applying it. We used the original version with 42 items here.
+
+* [![Link](https://img.shields.io/badge/-flow-black?style=flat-square)](http://www.psych.uni-potsdam.de/people/rheinberg/messverfahren/fks1-e.html) **FSS** - Flow Short State: measuring the flow-inducing aspects of the gameplay. The longer form (Flow State Scale) can be found in this work [Jackson and Marsh, 1996]
 
 * [![Copy](https://img.shields.io/badge/-Copy-brightgreen.svg)](https://docs.google.com/forms/d/11_CP6_mearE3rWclxCiYL9tmheoGEBg7DN1jHmAJAiY/copy) **IPQ** - Igroup Presence Questionnaire: measuring the sense of presence experienced in a virtual environment [Schubert et al. 2001]. The questionnaire follows [this](http://www.igroup.org/pq/ipq/download.php) webpage.
 
@@ -53,6 +56,8 @@ Find it time-consuming to create standardized questionnaires in Human-Computer I
 - Sandra G. Hart. 2006. Nasa-Task Load Index (NASA-TLX); 20 Years Later. In *Proceedings of the Human Factors and Ergonomics Society Annual Meeting* 50 (9), pp. 904–908. DOI: 10.1177/154193120605000909
 
 - Marc Hassenzahl, Michael Burmester, and Franz Koller. 2003. AttrakDiff: A questionnaire to measure perceived hedonic and pragmatic quality. In *Mensch & computer 2003*, pp. 187-196. DOI: 10.1007/978-3-322-80058-9_19
+
+- Susan A. Jackson and Herbert W. Marsh. "Development and validation of a scale to measure optimal experience: The Flow State Scale." *Journal of sport and exercise psychology* 18, no. 1 (1996): 17-35.
 
 - Robert S. Kennedy, Norman E. Lane, Kevin S. Berbaum, and Michael G. Lilienthal. 1993. Simulator sickness questionnaire: An enhanced method for quantifying simulator sickness. In *the international journal of aviation psychology* 3 (3), pp. 203-220. DOI: 10.1207/s15327108ijap0303_3
 
