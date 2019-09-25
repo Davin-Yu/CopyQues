@@ -1,11 +1,11 @@
-# Standardized HCI Questionnaires in Copyable Google Forms
-Find it time-consuming to create standardized questionnaires in Human-Computer Interaction (HCI) for your experiment? This project collects popular surveys and makes them into copyable Google Forms. Grab the ones you need and speed up your research :zap: :zap: :zap:.
+# Standardized Questionnaires for HCI Research
+Find it time-consuming to create standardized questionnaires in Human-Computer Interaction (HCI) for your research? This project collects popular HCI surveys and provides them in copyable Google Forms or external links. Grab the ones you need and speed up your research :zap: :zap: :zap:.
 
-##### Quick Links for Copyable Templates
+##### Quick Links for Templates
 \*Make sure you've read the questionnaire explanation [below](#Questionnaires) before copying the form. Using a wrong template could lead to a waste of effort and false conclusions!
 
 [![AttrakDiff](https://img.shields.io/badge/-AttrakDiff-ff69b4.svg)](https://docs.google.com/forms/d/19nldyAuaBNrVpacfRqPwVo9DVcHeuh5kGGRFIPitjCI/copy)
-[![FSS](https://img.shields.io/badge/-FSS-black?style=flat-square)](http://www.psych.uni-potsdam.de/people/rheinberg/messverfahren/fks1-e.html)
+[![FSS](https://img.shields.io/badge/-FSS-black.svg)](http://www.psych.uni-potsdam.de/people/rheinberg/messverfahren/fks1-e.html)
 [![GEQ](https://img.shields.io/badge/-GEQ-yellowgreen.svg)](https://docs.google.com/forms/d/1RXqIfDZgJ3Mi27MX5UAv3hsx4n8G90Zo_dfMGR398JQ/copy)
 [![IPQ](https://img.shields.io/badge/-IPQ-lightgrey.svg)](https://docs.google.com/forms/d/11_CP6_mearE3rWclxCiYL9tmheoGEBg7DN1jHmAJAiY/copy)
 [![PQ](https://img.shields.io/badge/-PQ-brightgreen.svg)](https://docs.google.com/forms/d/1ZVvTZB_mcN5SGedKm8CDSGStYgSrplH1XJVwRhU3YaI/copy)
@@ -26,7 +26,7 @@ Find it time-consuming to create standardized questionnaires in Human-Computer I
 
 * [![Copy](https://img.shields.io/badge/-Copy-brightgreen.svg)](https://docs.google.com/forms/d/1RXqIfDZgJ3Mi27MX5UAv3hsx4n8G90Zo_dfMGR398JQ/copy) **GEQ** - Game Experience Questionnaire: [Poels et al. 2007]. Note there are different versions of GEQ exist and the factor structure of the GEQ might not be stable [Law et al. 2018]--please be cautious when applying it. We used the original version with 42 items here.
 
-* [![Link](https://img.shields.io/badge/-Link-black?style=flat-square)](http://www.psych.uni-potsdam.de/people/rheinberg/messverfahren/fks1-e.html) **FSS** - Flow Short State: measuring the flow-inducing aspects of the gameplay. The longer form (Flow State Scale) can be found in this work [Jackson and Marsh, 1996]
+* [![Link](https://img.shields.io/badge/-FSS-black.svg)](http://www.psych.uni-potsdam.de/people/rheinberg/messverfahren/fks1-e.html) **FSS** - Flow Short State: measuring the flow-inducing aspects of the gameplay. The longer form (Flow State Scale) can be found in this work [Jackson and Marsh, 1996]
 
 * [![Copy](https://img.shields.io/badge/-Copy-brightgreen.svg)](https://docs.google.com/forms/d/11_CP6_mearE3rWclxCiYL9tmheoGEBg7DN1jHmAJAiY/copy) **IPQ** - Igroup Presence Questionnaire: measuring the sense of presence experienced in a virtual environment [Schubert et al. 2001]. The questionnaire follows [this](http://www.igroup.org/pq/ipq/download.php) webpage.
 
@@ -77,8 +77,8 @@ Find it time-consuming to create standardized questionnaires in Human-Computer I
 
 ## Contributing
 There are many other standardized surveys in HCI and it will be very nice to include more of them here. Please help us to improve the project by either
-* Pose a new [issue](https://guides.github.com/features/issues/) on GitHub; or
-* Create and share your own questionnaire templates in Google Form by following [these steps](https://alicekeeler.com/2017/01/02/5-steps-sharing-copy-google-form/
+* Pose a new [issue](https://guides.github.com/features/issues/) on GitHub and provide external links of the questionnaire(s); or
+* Create and share your own questionnaire templates in Google Forms by following [these steps](https://alicekeeler.com/2017/01/02/5-steps-sharing-copy-google-form/
 ) and [pull a new request](https://guides.github.com/activities/forking/) to this project.
 
 ## Contributors
