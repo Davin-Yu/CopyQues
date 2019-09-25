@@ -1,5 +1,5 @@
 # Standardized Questionnaires for HCI Research
-Find it time-consuming to create standardized questionnaires in Human-Computer Interaction (HCI) for your research? This project collects popular HCI surveys and provides them in copyable Google Forms or external links. Grab the ones you need and speed up your research :zap: :zap: :zap:.
+Find it time-consuming to find or create standardized questionnaires in Human-Computer Interaction (HCI) for your research? This project collects popular HCI surveys and provides them in copyable Google Forms or external links. Grab the ones you need and speed up your research :zap: :zap: :zap:.
 
 ##### Quick Links for Templates
 \*Make sure you've read the questionnaire explanation [below](#Questionnaires) before copying the form. Using a wrong template could lead to a waste of effort and false conclusions!
