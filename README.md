@@ -5,7 +5,7 @@ Find it time-consuming to create standardized questionnaires in Human-Computer I
 \*Make sure you've read the questionnaire explanation [below](#Questionnaires) before copying the form. Using a wrong template could lead to a waste of effort and false conclusions!
 
 [![AttrakDiff](https://img.shields.io/badge/-AttrakDiff-ff69b4.svg)](https://docs.google.com/forms/d/19nldyAuaBNrVpacfRqPwVo9DVcHeuh5kGGRFIPitjCI/copy)
-[![FSS](https://img.shields.io/badge/-FSS-black?style=flat-square)]
+[![FSS](https://img.shields.io/badge/-FSS-black?style=flat-square)](http://www.psych.uni-potsdam.de/people/rheinberg/messverfahren/fks1-e.html)
 [![GEQ](https://img.shields.io/badge/-GEQ-yellowgreen.svg)](https://docs.google.com/forms/d/1RXqIfDZgJ3Mi27MX5UAv3hsx4n8G90Zo_dfMGR398JQ/copy)
 [![IPQ](https://img.shields.io/badge/-IPQ-lightgrey.svg)](https://docs.google.com/forms/d/11_CP6_mearE3rWclxCiYL9tmheoGEBg7DN1jHmAJAiY/copy)
 [![PQ](https://img.shields.io/badge/-PQ-brightgreen.svg)](https://docs.google.com/forms/d/1ZVvTZB_mcN5SGedKm8CDSGStYgSrplH1XJVwRhU3YaI/copy)
