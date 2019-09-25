@@ -26,7 +26,7 @@ Find it time-consuming to find or create standardized questionnaires in Human-Co
 
 * [![Copy](https://img.shields.io/badge/-Copy-brightgreen.svg)](https://docs.google.com/forms/d/1RXqIfDZgJ3Mi27MX5UAv3hsx4n8G90Zo_dfMGR398JQ/copy) **GEQ** - Game Experience Questionnaire: [Poels et al. 2007]. Note there are different versions of GEQ exist and the factor structure of the GEQ might not be stable [Law et al. 2018]--please be cautious when applying it. We used the original version with 42 items here.
 
-* [![Link](https://img.shields.io/badge/-FSS-black.svg)](http://www.psych.uni-potsdam.de/people/rheinberg/messverfahren/fks1-e.html) **FSS** - Flow Short State: measuring the flow-inducing aspects of the gameplay. The longer form (Flow State Scale) can be found in this work [Jackson and Marsh, 1996]
+* [![Link](https://img.shields.io/badge/-Link-black.svg)](http://www.psych.uni-potsdam.de/people/rheinberg/messverfahren/fks1-e.html) **FSS** - Flow Short State: measuring the flow-inducing aspects of the gameplay. The longer form (Flow State Scale) can be found in this work [Jackson and Marsh, 1996]
 
 * [![Copy](https://img.shields.io/badge/-Copy-brightgreen.svg)](https://docs.google.com/forms/d/11_CP6_mearE3rWclxCiYL9tmheoGEBg7DN1jHmAJAiY/copy) **IPQ** - Igroup Presence Questionnaire: measuring the sense of presence experienced in a virtual environment [Schubert et al. 2001]. The questionnaire follows [this](http://www.igroup.org/pq/ipq/download.php) webpage.
 
