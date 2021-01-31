@@ -32,6 +32,8 @@ Find it time-consuming to find or create standardized questionnaires in Human-Co
 
 * [![Copy](https://img.shields.io/badge/-Copy-brightgreen.svg)](https://docs.google.com/forms/d/1ZVvTZB_mcN5SGedKm8CDSGStYgSrplH1XJVwRhU3YaI/copy) **PQ** - Presence Questionnaire: measuring the degree to which individuals experience presence in a virtual environment [Witmer 1998].
 
+* [![Copy](https://img.shields.io/badge/-Copy-brightgreen.svg)](https://docs.google.com/forms/d/1nvxDboVHC_oZc87V3iW051q6W3HFTAbiJGQMwsPDn5I/copy) **ITQ** - Immersive Tendencies Questionnaire: to measure differences in the tendencies of individuals to experience presence [Witmer 1998].
+
 * [![Copy](https://img.shields.io/badge/-Copy-brightgreen.svg)](https://docs.google.com/forms/d/1H89jyFzabBOZx_yqfz38Rm8IeXEFE_aXclYo4gRpjzw/copy) **Raw NASA-TLX** - Raw Task Load Index: measuring subjective workload [Hart and Staveland 1988]. This template is a short version of NASA-TLX [Hart 2006] on Likert 7-point scale.
 
 * [![Copy](https://img.shields.io/badge/-Copy-brightgreen.svg)](https://docs.google.com/forms/d/1tslDFWLNayUJ5cc4y1VRRZLV6zV7VJKY2Envcdv92T4/copy) **SAM** - Self-Assessment Manikin questionnaire: measuring emotion [Bradley 1994]. [This version](http://irtel.uni-mannheim.de/pxlab/demos/index_SAM.html) is used here.
