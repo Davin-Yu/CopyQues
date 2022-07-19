@@ -82,6 +82,3 @@ There are many other standardized surveys in HCI and it will be very nice to inc
 * Pose a new [issue](https://guides.github.com/features/issues/) on GitHub and provide external links of the questionnaire(s); or
 * Create and share your own questionnaire templates in Google Forms by following [these steps](https://alicekeeler.com/2017/01/02/5-steps-sharing-copy-google-form/
 ) and [pull a new request](https://guides.github.com/activities/forking/) to this project.
-
-## Contributors
-<table><tr><td align="center"><a href="https://difeng.me"><img style="border-radius:50%;" src="https://avatars3.githubusercontent.com/u/22027915?v=4" width="80px;"/><br/><sub><b>Difeng Yu</b></sub></a></td></tr></table>
